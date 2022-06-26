@@ -4,7 +4,7 @@ Un endroit où décrire les formulaires mis en place pour collecter des données
 Le but est de ne pas réinventer l'eau tiède quand on cherche à mettre en œuvre un suivi ou une collecte de données opportunistes.
 Et plutôt de favoriser le réemploi, l'adaptation de formulaires existants au sein du réseau et au-delà.
 
-Le standard xlsform se prête bien à cela.
+Le standard xlsform s'y prête bien.
 
 Nous nous efforcerons de respecter un format de fichier (feuilles de calculs, colonnes) qui pemrettra aisément de réutiliser tout ou partie d'un formulaire.
 
