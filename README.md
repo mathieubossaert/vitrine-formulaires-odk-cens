@@ -23,10 +23,10 @@ voir [ici](collecte-donnees-opportunistes.md) les formulaires mis en oeuvre pour
 [ici](suivis-hanitats-naturels.md)
 ## Suivi des paramètres physici-chimiques des lagunes
 [ici](filmed.md)
-## Suivi des actions de gestion
-### Suivi des travaux de gestion
+## Suivi de la gestion des sites
+### Travaux de gestion
 ### Gestion hydraulique
 
-## Suivi de l'état et de l'utilisation d'équipements
+## Inventaire et suivi de l'état et de l'utilisation d'équipements
+### Ouvrage de gestion Hydraulique
 ### Véhicules de service
-#### Ouvrage de gestion Hydraulique
