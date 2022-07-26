@@ -9,7 +9,7 @@ Présentation détaillée à venir.
 * Enumération des espèces
 * Pour chaque strate présente, attribution à chaque espèce d'un coefficient d'abondance/dominance
 ### Ressources
-[xlsform et medias](./fichiers/releves phytosociologiques)
+[xlsform et medias](./fichiers/releves_phytosociologiques)
 # Suivi de l'état de conservation des habitats
 -> Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habitats naturels (Klesczewski et al. 2010)
 
