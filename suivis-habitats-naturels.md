@@ -9,9 +9,9 @@ Présentation détaillée à venir.
 # Suivi de l'état de conservation des habitats
 -> Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habitats naturels (Klesczewski et al. 2010)
 
-_Mario Klesczewski, Jérémie Barret, Clément Baudot, Joseph Fleury.  Evaluer l’état de conservation  
+[_Mario Klesczewski, Jérémie Barret, Clément Baudot, Joseph Fleury.  Evaluer l’état de conservation  
 des habitats naturels à l’échelle du terrain : approches dans le Languedoc-Roussillon. Revue forestière  
-française, AgroParisTech, 2010, 62 (3-4), pp.417-427. 10.4267/2042/38955. ￿hal-03449686_
+française, AgroParisTech, 2010, 62 (3-4), pp.417-427. 10.4267/2042/38955. ￿hal-03449686_](https://hal.archives-ouvertes.fr/hal-03449686/document)
 
 -> formulaire développé par Nathalie Hiessler au CEN Occitanie
 Présentation détaillée à venir.
