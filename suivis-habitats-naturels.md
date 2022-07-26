@@ -33,3 +33,5 @@ L'étang est découpé en mailles carrées de 100m  (1787 subdivisions des maill
 * la présence de 3 espèces ( _Ruppia cirrhosa (Petagna) Grande, 1918_ ; _Zostera noltei Hornem., 1832_ ;  _Zostera marina L., 1753_) et d'algues
 
 Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk.org/form-question-types/#select-one-from-map-widget) pour la sélection de la maille (son centroïde actuellement). Cela permet à l'utilisateur de voir sa progression car les mailles visitées sont cachées lors de la sélection.
+### Ressources
+[xlsform et medias](./fichiers/suivi_herbiers_lagunaires)
