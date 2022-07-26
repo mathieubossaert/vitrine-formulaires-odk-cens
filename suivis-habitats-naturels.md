@@ -21,7 +21,7 @@ Présentation détaillée à venir.
     * les différents indicateurs des critères de structure, composition et dégragation de l'habitat sont proposés à l'observateur et évalués
     * Les valeurs brutes sont renseignées, et non les notes ( bon/moyen/défavorable ) de manière à pouvoir comparer les données dans le temps, si les euils étaient amenés à changer.
 
-# Suivi des herbiers lagunaire (Etang de Vic)
+# Suivi des herbiers lagunaires (Etang de Vic)
 -> formulaire développé par Mathieu Bossaert au CEN Occitanie
 Présentation détaillée à venir.
 ### Logique du formulaire
@@ -29,7 +29,7 @@ L'étang est découpé en mailles carrées de 100m  (1787 subdivisions des maill
 -> Pour chaque maille sont notés :
 * le recouvrement et la densité de l'herbier
 * la nature du substrat majoritaire sous l'herbier (si présent)
-* la nature du substrat en général si herbier absent
+* la nature du substrat en général si l'herbier est absent
 * la présence de 3 espèces ( _Ruppia cirrhosa (Petagna) Grande, 1918_ ; _Zostera noltei Hornem., 1832_ ;  _Zostera marina L., 1753_) et d'algues
 
 Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk.org/form-question-types/#select-one-from-map-widget) pour la sélection de la maille (son centroïde actuellement). Cela permet à l'utilisateur de voir sa progression car les mailles visitées sont cachées lors de la sélection.
