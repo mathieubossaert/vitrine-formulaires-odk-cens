@@ -19,8 +19,8 @@ voir [ici](collecte-donnees-opportunistes.md) les formulaires mis en oeuvre pour
 [ici](suivis-faune.md)
 ### Flore / Fonge
 [ici](suivis-flore-fonge.md)
-### Habitats Naturels
-[ici](suivis-hanitats-naturels.md)
+### Habitats Naturels:wq
+[ici](suivis-habitats-naturels.md)
 ## Suivi des paramètres physici-chimiques des lagunes
 [ici](filmed.md)
 ## Suivi de la gestion des sites
