@@ -28,4 +28,4 @@ voir [ici](collecte-donnees-opportunistes.md) les formulaires mis en oeuvre pour
 
 ## Inventaire et suivi de l'état et de l'utilisation d'équipements
 * Ouvrage de gestion Hydraulique
-* Véhicules de service
+* Utilisation des véhicules de service
