@@ -15,18 +15,15 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 ## Collecte de données opportunistes
 voir [ici](collecte-donnees-opportunistes.md) les formulaires mis en oeuvre pour collecter les données "non protocolées", en utilisation "carnet de terrain"
 ## Suivis naturalistes (protocoles)
-### Faune
-[ici](suivis-faune.md)
-### Flore / Fonge
-[ici](suivis-flore-fonge.md)
-### Habitats Naturels
-[ici](suivis-habitats-naturels.md)
+* [Faune](suivis-faune.md)
+* [Flore / Fonge](suivis-flore-fonge.md)
+* [Habitats Naturels](suivis-habitats-naturels.md)
 ## Suivi des paramètres physici-chimiques des lagunes
 [ici](filmed.md)
 ## Suivi de la gestion des sites
-### Travaux de gestion
-### Gestion hydraulique
+* Travaux de gestion
+* Gestion hydraulique
 
 ## Inventaire et suivi de l'état et de l'utilisation d'équipements
-### Ouvrage de gestion Hydraulique
-### Véhicules de service
+* Ouvrage de gestion Hydraulique
+* Véhicules de service
