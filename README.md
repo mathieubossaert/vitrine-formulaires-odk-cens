@@ -18,11 +18,13 @@ voir [ici](collecte-donnees-opportunistes.md) les formulaires mis en oeuvre pour
 * [Faune](suivis-faune.md)
 * [Flore / Fonge](suivis-flore-fonge.md)
 * [Habitats Naturels](suivis-habitats-naturels.md)
+* [Suivis / Inventaire de Mares](./pram.md)
 ## Suivi des paramètres physici-chimiques des lagunes
 [FILMED](filmed.md)
 ## Suivi de la gestion des sites
 * Travaux de gestion
 * Gestion hydraulique
+* Tournées de sensibilisation des usagers des sites
 
 ## Inventaire et suivi de l'état et de l'utilisation d'équipements
 * Ouvrage de gestion Hydraulique
