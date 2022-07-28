@@ -8,16 +8,14 @@
 * Pour chaque strate présente, attribution à chaque espèce d'un coefficient d'abondance/dominance
 ### Ressources
 [xlsform et medias](./fichiers/releves_phytosociologiques)
-
 ### Présentation détaillée
 à venir !
+
 # Suivi de l'état de conservation des habitats
 -> Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habitats naturels (Klesczewski et al. 2010)
-
 _Mario Klesczewski, Jérémie Barret, Clément Baudot, Joseph Fleury.  Evaluer l’état de conservation  
 des habitats naturels à l’échelle du terrain : approches dans le Languedoc-Roussillon. Revue forestière  
 française, AgroParisTech, 2010, 62 (3-4), pp.417-427. 10.4267/2042/38955._ [hal-03449686](https://hal.archives-ouvertes.fr/hal-03449686/document)
-
 -> formulaire développé par Nathalie Hiessler au CEN Occitanie
 ### Logique du formulaire
 * Pour chaque habitat cartographié
@@ -40,9 +38,9 @@ L'étang est découpé en mailles carrées de 100m  (1787 subdivisions des maill
 Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk.org/form-question-types/#select-one-from-map-widget) pour la sélection de la maille (son centroïde actuellement). Cela permet à l'utilisateur de voir sa progression car les mailles visitées sont cachées lors de la sélection.
 ### Ressources
 [xlsform et medias](./fichiers/suivi_herbiers_lagunaires)
-
 ### Présentation détaillée
 à venir !
+
 # Inventaire / suivi de mares (PRAM)
 -> formulaire développé par Lizza Jabbour CEN Occitanie dans le cadre de son Master 2 SIGMA
 ### Logique du formulaire
@@ -50,9 +48,19 @@ Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk
 ### Présentation détaillée
 à venir !
 
-# Suivi des _dendromicrohabitats_
+# Milieu forestier
+## Suivi des _dendromicrohabitats_
 -> formulaire développé par Nicolas Gouix et Hugo Norel au CEN Occitanie
 ### Logique du formulaire
+### Ressources
+### Présentation détaillée
+à venir !
+## Indice de Biodiversité Potentielle (IBP)
+**IBP Collect** est un outil pour la saisie des données de l’Indice de Biodiversité Potentielle (IBP) pour les forêts françaises (IBP Fr v3.210319). 
+Il est développé par Nicolas Gouix et Hugo Norel au CEN Occitanie
+### Logique du formulaire
+Mise en oeuvre de l'IBP.
+Larrieu L., Gonin P. : 2021 – Définition de l’Indice de Biodiversité Potentielle pour les forêts françaises (IBP Fr v3.210126). CNPF, INRAE Dynafor, 26/01/21, 9 p.  [www.cnpf.fr](https://www.cnpf.fr/n/ibp-indice-de-biodiversite-potentielle/n:782)
 ### Ressources
 ### Présentation détaillée
 à venir !
