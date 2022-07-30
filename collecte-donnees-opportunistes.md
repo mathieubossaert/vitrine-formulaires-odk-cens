@@ -11,9 +11,9 @@
 [xlsform et medias](./fichiers/SicenODK)
 
 ### Présentation détaillée
-[SicenODK](https://si.cen-occitanie.org/formulaire-mobile-generaliste-2021/) (Cen Occitanie) et le [complément pour la version 2022](https://si.cen-occitanie.org/formulaire-mobile-generaliste-2022/)
-[La présentation du formulaire sur le forum ODK (plus technique)](https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332)
-[Sa présentation sur Geotribu et le lien ODK/PostGIS](https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/)
+* [SicenODK](https://si.cen-occitanie.org/formulaire-mobile-generaliste-2021/) (Cen Occitanie) et le [complément pour la version 2022](https://si.cen-occitanie.org/formulaire-mobile-generaliste-2022/)
+* [La présentation du formulaire sur le forum ODK (plus technique)](https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332)
+* [Sa présentation sur Geotribu et le lien ODK/PostGIS](https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/)
 ## OccTaxODK : formulaire conforme au Standard Occurence de taxons du SINP
 * [OccTaxODK / Occurence de Taxons](occurence_de_taxon.md) (travail en cours)
 
