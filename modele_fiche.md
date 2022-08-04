@@ -11,7 +11,11 @@
 ### Déployer le formulaire
 ## Lien vers XLSform
 ## Lien vers données externes et médias associés
-## Traitement des données
-### Scripts SQL
-### Scripts R
-### Autres
+### Fonctionnalités de Xlsform mises en oeuvre
+Si le formualire peut servir d'exemple dans l'utilistaion de telle ou telle fonctionnalité.
+Préciser par exemple les questions ou lignes concernées et mentionner les liens vers la documentation ou les discussions correspondantes sur le formum...
+Préciser aussi si certaines aspects sont obsolètes / pourraient être améliorée aves les dernièrese versions d'ODK 
+### Traitement des données
+#### Scripts SQL
+#### Scripts R
+#### Autres
