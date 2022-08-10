@@ -45,7 +45,7 @@ Développement non démarré
     * Pelophylax sp.
 
 ### Ressources
-[xlsform et medias]()
-[Protocole](./Mare_OSU_OREME/Programme_Mare_OSU_OREME_1.pdf) et [tableur initial](./Mare_OSU_OREME/Bd_Suivi mare_CNRS_2022.xls)
+[xlsform et medias](./fichiers/Mare_OSU_OREME/MaresCNRS.xlsx)
+[Protocole](./fichiers/Mare_OSU_OREME/Programme_Mare_OSU_OREME_1.pdf) et [tableurinitial](./fichiers/Mare_OSU_OREME/Bd_Suivi mare_CNRS_2022.xls)
 ### Présentation détaillée
 à venir !
