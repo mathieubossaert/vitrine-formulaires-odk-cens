@@ -1,4 +1,6 @@
-# Nom du formualaire : Formulaire PRAM (inventaire et suivi de mares)
+Voila la description précise du formulaire réalisée par Liza ;-) :
+
+# Nom du formulaire : Formulaire PRAM (inventaire et suivi de mares)
 
 ## Description : formulaire d'inventaire et suivi des mares d'Occitanie
 
@@ -13,7 +15,7 @@ Dans le cadre du projet PRAM, le CEN Occitanie a décidé de mettre en place des
 -> Lien vers le formulaire
 -> Lien vers l’application PRAM du CEN Occitanie
 
-#### Protocole mis en oeuvre
+#### Protocole mis en œuvre
 
 -> lien vers le pdf ou autre ressource
 
@@ -93,26 +95,26 @@ L'écran suivant vous propose de choisir votre structure dans la liste suivante.
 
 ### Écran n°6 : Géoréférencement
 
-Sur cet écran, vous pouvez choisir la méthode de géoréférencement qui vous convient parmis trois choix : *point*, *polygone*, *saisie de coordonnées*. Une fois la méthode 1 ou 2 cochée, appuyez sur le gros bouton bleu *Démarrer le PointGéo*. Cette action vous dirige vers la carte.
+Sur cet écran, vous pouvez choisir la méthode de géoréférencement qui vous convient parmi trois choix : *point*, *polygone*, *saisie de coordonnées*. Une fois la méthode 1 ou 2 cochée, appuyez sur le gros bouton bleu *Démarrer le PointGéo*. Cette action vous dirige vers la carte.
 
 ![methode_georeferencement](./fichiers/PRAM/ecrans/methode_georeferencement.png)
 
 ### Écran n°7 : Fond de carte
 
-Sur cet écran, vous pouvez pointer votre mare ou dessiner votre polygone représentant les contours de votre mare sur la carte. Pour pointer, il suffit d'appyer longuement sur la carte pour que votre point apparaisse. N'oubliez pas de sauvegarder votre point ou polygone en appuyant sur le logo "disquette" suité en bas à droite de votre écran. 
+Sur cet écran, vous pouvez pointer votre mare ou dessiner votre polygone représentant les contours de votre mare sur la carte. Pour pointer, il suffit d’appuyer longuement sur la carte pour que votre point apparaisse. N'oubliez pas de sauvegarder votre point ou polygone en appuyant sur le logo "disquette" situé en bas à droite de votre écran. 
 
 ![fond de carte](./fichiers/PRAM/ecrans/fond de carte.png)
 
 
 ### Écran n°8 : Confirmation de votre géoréférencement
 
-Vous êtes redirigez vers la page de méthode de géoréférencement. En bas de votre écran, vous verrez les coordonées géographique de votre point ou polygone. Vérifiez bien vos coordonées. Changez la position de votre point si besoin en appuyant sur le gros bouton bleu *Voir ou changer la position*.
+Vous êtes redirigez vers la page de méthode de géoréférencement. En bas de votre écran, vous verrez les coordonnées géographique de votre point ou polygone. Vérifiez bien vos coordonnées. Changez la position de votre point si besoin en appuyant sur le gros bouton bleu *Voir ou changer la position*.
 
-![methode georeferencement_confirmation](./fichiers/PRAM/ecrans/methode georeferencement_confirmation.png)'
+![methode georeferencement_confirmation](./fichiers/PRAM/ecrans/methode_georeferencement_confirmation.png)'
 
 ### Écran n°9 : Foncier
 
-Cette page vous ropose les différent statut foncier de la mare. Choissiez un statut. Vous serez automatiquement redirigez vers la page suivante.
+Cette page vous ropose les différent statut foncier de la mare. Choisissez un statut. Vous serez automatiquement redirigez vers la page suivante.
 
 ![foncier](./fichiers/PRAM/ecrans/foncier.png)
 
@@ -146,7 +148,7 @@ Sur le Xème écran, vous devez renseigner la typologie de la mare. Vous avez la
 
 ### Écran n°13 : Contexte général
 
-Sur cet écran, il vous est demandez de renseigner le conntexte général de la mare. Vous avez le choix entre 6 choix. Vous pouvez en choisi 2 maximum. La dernière option est de renseigner vous même le contexte général en appuyant sur *Autre*. Comme pour les questions précédentes, vous serez redirigé automatiquement vers une nouvelle page.
+Sur cet écran, il vous est demandez de renseigner le contexte général de la mare. Vous avez le choix entre 6 choix. Vous pouvez en choisi 2 maximum. La dernière option est de renseigner vous même le contexte général en appuyant sur *Autre*. Comme pour les questions précédentes, vous serez redirigé automatiquement vers une nouvelle page.
 
 ![contexte_general](./fichiers/PRAM/ecrans/contexte_general.png)
 
@@ -200,7 +202,7 @@ Idem sur cet écran, il vous est demandez de répondre à la question ci-dessous
 
 ### Écran n°21 : Périodicité de la mare
 
-Cette page vous propose de sélectionner si la mare est permanante, temporaire ou bien si vous ne savez pas, vous pouvez cocher "indéterminé".
+Cette page vous propose de sélectionner si la mare est permanente, temporaire ou bien si vous ne savez pas, vous pouvez cocher "indéterminé".
 
 ![periodicite](./fichiers/PRAM/ecrans/periodicite.png)
 
@@ -235,9 +237,9 @@ Ici, il vous est demandez de renseigner la superficie en m2. Il faut choisir l'i
 
 ![superficie](./fichiers/PRAM/ecrans/superficie.png)
 
-### Écran n°26 : Prodondeur en m
+### Écran n°26 : Profondeur en m
 
-AMELIORATION FORMULAIRE A VENIR !
+AMÉLIORATION FORMULAIRE A VENIR !
 Ici, il vous est demandez de renseigner la profondeur en m.
 
 
@@ -293,20 +295,20 @@ Renseignez ensuite la valeur obtenue.
 
 ### Écran n°36 : Pressions et menaces
 
-Si vous avez répondu non à la question précédente "souhaitez-vous renseigner des données physico-chimiques ?" vous serez redirigé directement sur cet écran. Ici, il vous est demandez de renseigner les pressions menaces que vous observez sur votre mare. Vous pouvez en séléctionner 6 maximum.
+Si vous avez répondu non à la question précédente "souhaitez-vous renseigner des données physico-chimiques ?" vous serez redirigé directement sur cet écran. Ici, il vous est demandez de renseigner les pressions menaces que vous observez sur votre mare. Vous pouvez en sélectionner 6 maximum.
 
 ![pressions_1](./fichiers/PRAM/ecrans/pressions_1.png)
 ![pressions_2](./fichiers/PRAM/ecrans/pressions_2.png)
 
 ### Écran n°37 : Intensité des pressions et menaces
 
-Il vous est demandez par la suite de renseigner l'intensité moyenne des pressions et menaces séléctionnées. 
+Il vous est demandez par la suite de renseigner l'intensité moyenne des pressions et menaces sélectionnées. 
 
 ![intensite_pressions](./fichiers/PRAM/ecrans/intensite_pressions.png)
 
 ### Écran n°38 : Type de végétation aquatique (RVA)
 
-Sur cet écran, renseignez un type de végétations aquatiques/de recouvrement de la mare. Une fois renseignez, vous êtes dirigez vers l'écran suivant qui vous demande de renseigner le pourcentage de recouvrement de la mare par le type de végétation séléctionné juste avant. 
+Sur cet écran, renseignez un type de végétations aquatiques/de recouvrement de la mare. Une fois renseignez, vous êtes dirigez vers l'écran suivant qui vous demande de renseigner le pourcentage de recouvrement de la mare par le type de végétation sélectionné juste avant. 
 
 ![type_vegetation_aquatique_1](./fichiers/PRAM/ecrans/type_vegetation_aquatique_1.png)
 
@@ -340,7 +342,7 @@ Renseignez ici le(s) type(s) de gestion/restauration possible. 6 choix maximum.
 
 ### Écran n°42 : Gestion et restauration - Restaurer/réhabiliter
 
-Si vous séléctionnez l'option *"Restaurer/réhabiliter"*, il vous est demandez de préciser l'action souhaitée parmis une liste de choix. 
+Si vous sélectionnez l'option *"Restaurer/réhabiliter"*, il vous est demandez de préciser l'action souhaitée parmi une liste de choix. 
 
 ![gestion_restauration](./fichiers/PRAM/ecrans/gestion_restauration.png)
 
@@ -353,24 +355,24 @@ Si vous séléctionnez l'option *"Autre"*, il vous est demandez de préciser l'a
 
 ### Écran n°44 : Fermeture de la mare
 
-Renseignez ici le pourcentage de fermeture de la mare dû à l'emboisement/embrouissaillement des abords.
+Renseignez ici le pourcentage de fermeture de la mare dû à l'emboisement/embroussaillement des abords.
 
 ![fermeture_mare](./fichiers/PRAM/ecrans/fermeture_mare.png)
 
-### Écran n°45 : Accesibilité de la mare 
+### Écran n°45 : Accessibilité de la mare 
 
 ![accessibilite_mare](./fichiers/PRAM/ecrans/accessibilite_mare.png)
 
 ### Écran n°46 : Type de véhicule
 
-Si vous avez renseignez précédement que la mare est accessible, choissiez le type de véhicule pouvant circuler jusqu'à la mare.
+Si vous avez renseignez précédemment que la mare est accessible, choisissez le type de véhicule pouvant circuler jusqu'à la mare.
 
 ![type_vehicule](./fichiers/PRAM/ecrans/type_vehicule.png)
 
 ### Écran n°47 : Photos 
 
 Prenez ou importez des photos de la mare. Ici, il vous est demandez de mettre des photos avec un plan général de la mare, puis un plan plus rapproché, etc. 
-Vous ne pouvez que séléctionner une photo à la fois. L'écran suivant vous proposera de rajouter si nécessaire une autre photo. 
+Vous ne pouvez que sélectionner une photo à la fois. L'écran suivant vous proposera de rajouter si nécessaire une autre photo. 
 
 ![ajouter_photo_mare](./fichiers/PRAM/ecrans/ajouter_photo_mare.png)
 
@@ -386,7 +388,7 @@ Renseignez les informations complémentaires que le formulaire n'aurait pas couv
 
 ### Écran n°50 : Ajouter un emplacement 
 
-Soubaitez-vous renseigner une nouvelle mare ? Si oui, vous serez redirigé sur un autre formulaire PRAM vierge. 
+Souhaitez-vous renseigner une nouvelle mare ? Si oui, vous serez redirigé sur un autre formulaire PRAM vierge. 
 
 ![ajouter_emplacement_mare](./fichiers/PRAM/ecrans/ajouter_emplacement_mare.png)
 
