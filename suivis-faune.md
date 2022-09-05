@@ -74,8 +74,8 @@ Formulaire développé par Nathalie Hiessler au CEN Occitanie
         * Observation indirecte: renseignement du type et du nombre
  * Heure de fin et remarque en saisie libre
 ### Ressources
-* [xlsform et medias](./fichiers/lezard_ocelle_pira)
-* [protocole](.//fichiers/lezard_ocelle_pira/protocole)
+* [xlsform et medias](./fichiers/lezard_ocelle_pira/xlsform_et_medias/)
+* [protocole](.//fichiers/lezard_ocelle_pira/protocole_et_fichier_modeles/)
 ### Présentation détaillée
 A venir
 
