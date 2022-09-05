@@ -1,6 +1,47 @@
 # Invertébrés
 ## Protocole "atlas papillons" du Cen Ariège
-## Suivi du _Damier de la succise_ et de la _proserpine_ dans la RNR des Gorges du Gardon
+## Suivis du _Damier de la succise_ et de la _Proserpine_ dans la RNR des Gorges du Gardon
+Formulaire simple, destiné aux bénévoles de la réserve
+Développé par Nathalie Hiessler au CEN Occitanie
+### Logique du formulaires
+* Saisie d'informations concernant l'observateur
+* Renseignement du secteur d'étude
+* Date et heure
+* Point GPS
+* Renseignement de l'espèce observée, du stade de développement, effectif et comportement
+* Renseignement de la plante hôte
+* Remarque en saisie libre
+### Ressources
+* [xlsform](./fichiers/rnrgg/form_saisie_prtc_damier_proserpine_benevoles_rnrgg.xlsx)
+## Suivi du _Damier de la succise_ dans le cadre de mesures compensatoires
+Formulaire développé par Nathalie Hiessler au CEN Occitanie
+### Logique du formulaire
+* Saisie des informations concernant l'observateur
+* Date et heure de début de prospection
+* Renseignement du secteur d'étude, de l'identifiant de la placette et du numéro de passage
+* Présence/absence de la plante hôte et/ou de cocons communautaires. Si oui:
+    * Point GPS, présence ou absence de larve. Si oui:
+        * effectif en nombre précis ou classe d'effectifs
+    * Renseignement concernant la plante hôte (recouvrement en % et nombre de pieds en classes de dizaines) et remarque en saisie libre
+### Ressources
+* [xlsform](./fichiers/damier_succise_mc/form_saisie_prtc_damier_succise.xlsx)
+* protocole (à venir)
+### Présentation détaillée
+A venir
+## Suivi _Zerynthia sp._ (_Diane_ et _Proserpine_) dans le cadre de mesures compensatoires
+Formulaire développé par Nathalie Hiessler au CEN Occitanie
+### Logique du formulaire
+* Saisie des informations concernant l'observateur
+* Renseignement des informations sur le site d'étude, l'espèce suivie, la date et l'identifiant de la placette
+* Renseignement des paramètres externes (température, vitesse du vent, couverture nuageuse)
+* Présence et recouvrement de la plante hôte et/ou d'une autre espèce d'aristoloche dans la placette de 100 m²
+    * Observation de la plante hôte et/ou de l'espèce dans la sous-unité de 1m²
+    * Calcul automatique du nombre de sous-unité pour que la boucle soit re-proposée jusqu'à 20 enregistrement
+ * Calcul automatique du nombre de sous-unités positives à la plante hôte et/ou à l'espèce cible pour vérification
+ * Heure de fin et remarque en saisie libre
+### Ressources
+* [xlsform](./fichiers/zerynthia_sp/form_saisie_prtc_zerynthia_v2021.xlsx)
+* protocole
 ## Formulaire Zerynthia
 ## Suivi du _Crabe bleu_ (_espèce invasive_)
 ## Suivi Temporel des Libellules (STELI)
@@ -21,10 +62,11 @@
 ## CMR _Cistude / Emyde_ + pose des nasses
 ## Suivis des oiseaux des roselières (~IPA)
 ## Suivis _Lézard Ocellé_ (PIRA)
+Formulaire développé par Nathalie Hiessler au CEN Occitanie
 ### Logique du formulaire
-* Saisie d'informations concernant l'observateur
-* Saisie des information sur le projet, le secteur d'étude et l'identifiant de la placette
-* Saisie des paramètres externes (température, vitesse du vent, couverture nuageuse)
+* Saisie des informations concernant l'observateur
+* Renseignement des informations sur le projet, le secteur d'étude et l'identifiant de la placette
+* Renseignement des paramètres externes (température, vitesse du vent, couverture nuageuse)
 * Date et heure de début de prospection
 * Observation de l'espèce: si non, fin du formulaire, si oui:
     * Point GPS, heure et type d'observation (directe ou indirecte)
@@ -32,11 +74,15 @@
         * Observation indirecte: renseignement du type et du nombre
  * Heure de fin et remarque en saisie libre
 ### Ressources
+* [xlsform et medias](./fichiers/lezard_ocelle_pira)
+* [protocole](.//fichiers/lezard_ocelle_pira/protocole)
 ### Présentation détaillée
 A venir
+
 ## Suivis _Psammodrome d'Edwards_
+Formulaire développé par Nathalie Hiessler au CEN Occitanie
 ### Logique du formulaire
-* Saisie d'informations concernant l'observateur
+* Saisie des informations concernant l'observateur
 * Saisie des information sur le projet, le secteur d'étude et l'identifiant de la placette
 * Date et heure de début de prospection
 * Point GPS, et nombre d'observation
@@ -45,8 +91,26 @@ A venir
 * Saisie des recouvrements de végétation par strate
 ### Ressources
 ### Présentation détaillée
-A venir
-## Suivis Transects reptiles
+A  venir
+## Suivis transects reptiles
+Formulaire développé par Nathalie Hiessler au CEN Occitanie
+### Logique du formulaire
+* Saisie des informations concernant l'observateur
+* Renseignement des informations sur le projet, le secteur d'étude et l'identifiant du transect
+* Renseignement des paramètres externes (température, vitesse du vent, couverture nuageuse)
+* Date et heure de début de prospection
+* Observation de reptiles: si non, fin du formulaire, si oui:
+    * Point GPS et heure d'observation
+    * Saisie de l'espèce
+    * Renseignement de l'effectif, de la phénologie et du comportement
+    * Remarque en saisie libre sur l'observation
+ * Heure de fin
+ * Saisie de recouvrements de végétation par strate
+ * Remarque en saisie libre
+    ### Ressources
+* [xlsform](.fichiers/transects_reptiles/form_saisie_prtc_transects_reptiles.xls)
+* protocole = standard suivis des reptiles par transect, avec ou sans plaque. Possibilité de renseigner un identifiant de plaque dans le champs remarque de l'observation.
+### Présentation détaillée
 ## Suivis "mortalité routière" Amphibiens
 ## Suivis Amphibiens "OSU OREME"
 -> Suivi long terme des communautés d'amphibiens de la zone montpelliéraine
