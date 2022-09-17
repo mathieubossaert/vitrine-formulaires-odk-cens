@@ -1,5 +1,5 @@
 # Collecte de données opportunistes
-## SicenOCC (carnet de terrain)
+## SicenODK (carnet de terrain)
 -> formulaire développé par Vivian Inereli Gomes au CEN Occitanie dans le cadre de sa formation IdGéo.
 ### Logique du formulaire
 * Géolocalisation d'observations (1 localité - n observations) 
@@ -11,9 +11,28 @@
 [xlsform et medias](./fichiers/SicenODK)
 
 ### Présentation détaillée
-* [SicenODK](https://si.cen-occitanie.org/formulaire-mobile-generaliste-2021/) (Cen Occitanie) et le [complément pour la version 2022](https://si.cen-occitanie.org/formulaire-mobile-generaliste-2022/)
+* [SicenODK](./SicenODK.md)
 * [La présentation du formulaire sur le forum ODK (plus technique)](https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332)
 * [Sa présentation sur Geotribu et le lien ODK/PostGIS](https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/)
+## Kollect taxon
+-> formulaire développé par Thomas GACHET au CEN Nouvelle-Aquitaine
+### Logique du formulaire
+
+Ce formulaire est lié au portail web Kollect développé et administré par le CEN Nouvelle-Aquitaine et permet de saisir des observations naturalistes opportunistes ou liées à des inventaires et suivi simples.
+Il respecte le standard SINP.
+
+* Formulaire nominatif : une fois le compte Kollect web créé, l'utilisateur reçoit son QRCode ODK nominatif : il est comme cela directement identifié en tant qu'observateur principal pour chaque formulaire
+* Choix de l'organisme et de l'étude
+* Choix du type d'acquisition -observation fortuite, iventaire sur site
+* Choix du groupe taxonomique ciblé
+* Sessions d'observations (dynamique, staionnel)
+* Saisies des paramèrtes externes
+* Taxons présents en France métropolitaine (TAXREF v15) + taxons ajoutés et complexes
+* Statuts des espèces
+
+### Ressources
+
+[xlsform](./fichiers/KollectODK/kollect_taxon/kollect_taxon_2021.xls)
 ## OccTaxODK : formulaire conforme au Standard Occurence de taxons du SINP
 * [OccTaxODK / Occurence de Taxons](occurence_de_taxon.md) (travail en cours)
 
@@ -30,23 +49,3 @@ Liens vers documentation Crabe bleu / plus d'informations sur l'espèce à retro
 * [https://especes-exotiques-envahissantes.fr](https://especes-exotiques-envahissantes.fr/espece/callinectes-sapidus/)
 ### Présentation détaillée
 A venir
-## Kollect taxon
--> formulaire développé par Thomas GACHET au CEN Nouvelle-Aquitaine
-### Logique du formulaire
-
-Ce formulaire est lié au portail web Kollect développé et administré par le CEN Nouvelle-Aquitaine et permet de saisir des observations naturalistes opportunistes ou liées à des inventaires et suivi simples.
-Il respecte le standard SINP.
-
-
-* Formulaire nominatif : une fois le compte Kollect web créé, l'utilisateur reçoit son QRCode ODK nominatif : il est comme cela directement identifié en tant qu'observateur principal pour chaque formulaire
-* Choix de l'organisme et de l'étude
-* Choix du type d'acquisition -observation fortuite, iventaire sur site
-* Choix du groupe taxonomique ciblé
-* Sessions d'observations (dynamique, staionnel)
-* Saisies des paramèrtes externes
-* Taxons présents en France métropolitaine (TAXREF v15) + taxons ajoutés et complexes
-* Statuts des espèces
-
-### Ressources
-
-[xlsform](./fichiers/KollectODK/kollect_taxon/kollect_taxon_2021.xls)

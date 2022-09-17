@@ -1,3 +1,8 @@
+---
+title: Vitrine des formulaires ODK mis en œuvre dans les CEN
+description: L'utilisation de formualires ODK pour aider les métiers de la conservation de la nature
+hide_table_of_contents: true
+---
 # Vitrine des formulaires ODK mis en œuvre dans les Cen
 
 Cet espace est un endroit dédié à la présentation et au partage des formulaires mis en place pour collecter des données dans le réseau des CEN. Le but étant de ne pas repartir de 0 dans le développement d'un formulaire ou d'une application mobile pour mettre en œuvre un nouveau suivi ou une nouvelle collecte de données. Mais plutôt de favoriser l'utilisation d'ODK, développé pour cela et la réutilisation, l'adaptation de formulaires XlsForm existants.
@@ -10,30 +15,5 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 
 # ODK et le xlsform
 
-## Les formulaires mis en oeuvre
+## [Les formulaires mis en oeuvre](formulaires.md)
 
-## Collecte de données opportunistes
-
-voir [ici](collecte-donnees-opportunistes.md) les formulaires mis en oeuvre pour collecter les données "non protocolées", en utilisation "carnet de terrain"
-
-## Suivis naturalistes (protocoles)
-
-* [Faune](suivis-faune.md)
-* [Flore / Fonge](suivis-flore-fonge.md)
-* [Habitats Naturels](suivis-habitats-naturels.md)
-* [Suivis / Inventaire de Mares](./pram.md)
-
-## Suivi des paramètres physici-chimiques des lagunes
-
-[FILMED](filmed.md)
-
-## Suivi de la gestion des sites
-
-* Travaux de gestion
-* Gestion hydraulique
-* Tournées de sensibilisation des usagers des sites
-
-## Inventaire et suivis d'équipements
-
-* Ouvrages de gestion Hydraulique (échelles, martelières...)
-* Utilisation des véhicules de service
